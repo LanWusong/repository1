@@ -4,7 +4,8 @@ https://research.cs.wisc.edu/htcondor/tarball/9.0/
 处可以下载用于安装的msi包，但出于不明原因始终安装失败。根据报错代码与用户权限有关。然后我在ubuntu上进行JumpServer的安装。只要将ubuntu联网然后使用以下指令
 
 
-```curl -sSL https://github.com/jumpserver/jumpserver/releases/download/v2.14.1/quick_start.sh | bash 
+```
+curl -sSL https://github.com/jumpserver/jumpserver/releases/download/v2.14.1/quick_start.sh | bash 
 cd /opt/jumpserver-installer-v2.14.1
 ```
 
