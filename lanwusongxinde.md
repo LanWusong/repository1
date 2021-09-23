@@ -5,7 +5,8 @@ https://research.cs.wisc.edu/htcondor/tarball/9.0/
 
 
 ```curl -sSL https://github.com/jumpserver/jumpserver/releases/download/v2.14.1/quick_start.sh | bash 
-cd /opt/jumpserver-installer-v2.14.1```
+cd /opt/jumpserver-installer-v2.14.1
+···
 
 就可以完成JumpServer的一键部署，耗时大约十、二十分钟。
 
